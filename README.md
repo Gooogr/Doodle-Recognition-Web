@@ -53,9 +53,6 @@ The [model folder](https://github.com/Arcady1/Doodle-Recognition-Web/tree/master
 [TensorFlow JS documentation](https://www.tensorflow.org/js/tutorials/conversion/import_keras) - This article describe how to convert pre-trained Keras model to TensoFlow JS model<br>
 [The Quick, Draw! Dataset](https://github.com/googlecreativelab/quickdraw-dataset) - Dataset
 
-### You may also like...
-* [Pomodoro Bot](https://github.com/Arcady1/Telegram-Pomodoro-Bot) - Telegram bot with the pomodoro timer
-
 ### License
 MIT
 
